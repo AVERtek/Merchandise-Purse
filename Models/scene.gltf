@@ -3,24 +3,24 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 1022,
+      "count": 18457,
       "max": [
-        0.44111800193786621,
-        0.42958199977874756,
-        0.31072399020195007
+        4.4826440811157227,
+        1.8660279512405396,
+        8.7242841720581055
       ],
       "min": [
-        -0.49247100949287415,
-        -0.17311599850654602,
-        -0.056661598384380341
+        -2.2636940479278564,
+        -1.6462839841842651,
+        0.10747499763965607
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 12264,
+      "byteOffset": 221484,
       "componentType": 5126,
-      "count": 1022,
+      "count": 18457,
       "max": [
         1,
         1,
@@ -36,7 +36,7 @@
     {
       "bufferView": 3,
       "componentType": 5126,
-      "count": 1022,
+      "count": 18457,
       "max": [
         1,
         1,
@@ -54,104 +54,23 @@
     {
       "bufferView": 1,
       "componentType": 5126,
-      "count": 1022,
+      "count": 18457,
       "max": [
-        0.99620002508163452,
-        0.97399997711181641
+        0.8953859806060791,
+        0.99500000476837158
       ],
       "min": [
-        0.025299999862909317,
-        0.010400000028312206
+        0.004999999888241291,
+        0.004999999888241291
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 2988,
+      "count": 92124,
       "max": [
-        1021
-      ],
-      "min": [
-        0
-      ],
-      "type": "SCALAR"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 24528,
-      "componentType": 5126,
-      "count": 3524,
-      "max": [
-        0.8966519832611084,
-        1,
-        0.36679500341415405
-      ],
-      "min": [
-        -0.8966519832611084,
-        -1,
-        -0.36679500341415405
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 66816,
-      "componentType": 5126,
-      "count": 3524,
-      "max": [
-        1,
-        0.99981683492660522,
-        1
-      ],
-      "min": [
-        -0.99965018033981323,
-        -1,
-        -1
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 3,
-      "byteOffset": 16352,
-      "componentType": 5126,
-      "count": 3524,
-      "max": [
-        1,
-        1,
-        1,
-        1
-      ],
-      "min": [
-        -1,
-        -0.99999994039535522,
-        -1,
-        -1
-      ],
-      "type": "VEC4"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 8176,
-      "componentType": 5126,
-      "count": 3524,
-      "max": [
-        0.99739998579025269,
-        0.99949997663497925
-      ],
-      "min": [
-        0.00050000002374872565,
-        0.00050000002374872565
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 11952,
-      "componentType": 5125,
-      "count": 10488,
-      "max": [
-        3523
+        18456
       ],
       "min": [
         0
@@ -161,42 +80,42 @@
   ],
   "asset": {
     "extras": {
-      "author": "hanish Goar (https://sketchfab.com/hanish)",
+      "author": "mr.barbados (https://sketchfab.com/Barbados)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/versace-bag-e0bfc49fde124fb89cd5cacb0be1a1d6",
-      "title": "Versace Bag"
+      "source": "https://sketchfab.com/models/dd108faff010488db0e4eebbaaa2cebe",
+      "title": "ladies handbag_vol.1"
     },
-    "generator": "Sketchfab-9.55.1",
+    "generator": "Sketchfab-4.1.5",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 53904,
+      "byteLength": 368496,
       "byteOffset": 0,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 36368,
-      "byteOffset": 53904,
+      "byteLength": 147656,
+      "byteOffset": 368496,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 109104,
-      "byteOffset": 90272,
+      "byteLength": 442968,
+      "byteOffset": 516152,
       "byteStride": 12,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 72736,
-      "byteOffset": 199376,
+      "byteLength": 295312,
+      "byteOffset": 959120,
       "byteStride": 16,
       "name": "floatBufferViews",
       "target": 34962
@@ -204,47 +123,25 @@
   ],
   "buffers": [
     {
-      "byteLength": 272112,
+      "byteLength": 1254432,
       "uri": "scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/Gold_baseColor.jpeg"
+      "uri": "textures/null_normal.png"
     },
     {
-      "uri": "textures/Gold_metallicRoughness.png"
-    },
-    {
-      "uri": "textures/Gold_normal.png"
-    },
-    {
-      "uri": "textures/Leather_baseColor.jpeg"
-    },
-    {
-      "uri": "textures/Leather_metallicRoughness.png"
-    },
-    {
-      "uri": "textures/Leather_normal.png"
+      "uri": "textures/null_baseColor.png"
     }
   ],
   "materials": [
     {
       "doubleSided": true,
-      "emissiveFactor": [
-        0,
-        0,
-        0
-      ],
-      "name": "Gold",
+      "name": "null",
       "normalTexture": {
-        "index": 2,
-        "scale": 1,
-        "texCoord": 0
-      },
-      "occlusionTexture": {
-        "index": 1,
-        "strength": 1,
+        "index": 0,
+        "scale": 0.97122713409999994,
         "texCoord": 0
       },
       "pbrMetallicRoughness": {
@@ -255,58 +152,16 @@
           1
         ],
         "baseColorTexture": {
-          "index": 0,
-          "texCoord": 0
-        },
-        "metallicFactor": 1,
-        "metallicRoughnessTexture": {
           "index": 1,
           "texCoord": 0
         },
-        "roughnessFactor": 1
-      }
-    },
-    {
-      "doubleSided": true,
-      "emissiveFactor": [
-        0,
-        0,
-        0
-      ],
-      "name": "Leather",
-      "normalTexture": {
-        "index": 5,
-        "scale": 1,
-        "texCoord": 0
-      },
-      "occlusionTexture": {
-        "index": 4,
-        "strength": 1,
-        "texCoord": 0
-      },
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          1,
-          1,
-          1,
-          1
-        ],
-        "baseColorTexture": {
-          "index": 3,
-          "texCoord": 0
-        },
-        "metallicFactor": 1,
-        "metallicRoughnessTexture": {
-          "index": 4,
-          "texCoord": 0
-        },
-        "roughnessFactor": 1
+        "metallicFactor": 0.51391006100000003,
+        "roughnessFactor": 0.19073932930000001
       }
     }
   ],
   "meshes": [
     {
-      "name": "defaultMaterial",
       "primitives": [
         {
           "attributes": {
@@ -317,22 +172,6 @@
           },
           "indices": 4,
           "material": 0,
-          "mode": 4
-        }
-      ]
-    },
-    {
-      "name": "defaultMaterial",
-      "primitives": [
-        {
-          "attributes": {
-            "NORMAL": 6,
-            "POSITION": 5,
-            "TANGENT": 7,
-            "TEXCOORD_0": 8
-          },
-          "indices": 9,
-          "material": 1,
           "mode": 4
         }
       ]
@@ -355,64 +194,17 @@
       "children": [
         2
       ],
-      "matrix": [
-        0.14287090301513672,
-        0,
-        0,
-        0,
-        0,
-        0.14287090301513672,
-        0,
-        0,
-        0,
-        0,
-        0.14287090301513672,
-        0,
-        0,
-        0,
-        0,
-        1
-      ],
       "name": "RootNode (model correction matrix)"
     },
     {
       "children": [
         3
       ],
-      "matrix": [
-        1,
-        0,
-        0,
-        0,
-        0,
-        -4.3711390063094768e-08,
-        0.999999999999999,
-        0,
-        0,
-        -0.999999999999999,
-        -4.3711390063094768e-08,
-        0,
-        0,
-        0,
-        0,
-        1
-      ],
-      "name": "Collada visual scene group"
-    },
-    {
-      "children": [
-        4,
-        5
-      ],
-      "name": "g"
+      "name": "bag_vol.Obj.cleaner.materialmerger.gles"
     },
     {
       "mesh": 0,
-      "name": "defaultMaterial"
-    },
-    {
-      "mesh": 1,
-      "name": "defaultMaterial"
+      "name": ""
     }
   ],
   "samplers": [
@@ -440,22 +232,6 @@
     {
       "sampler": 0,
       "source": 1
-    },
-    {
-      "sampler": 0,
-      "source": 2
-    },
-    {
-      "sampler": 0,
-      "source": 3
-    },
-    {
-      "sampler": 0,
-      "source": 4
-    },
-    {
-      "sampler": 0,
-      "source": 5
     }
   ]
 }
